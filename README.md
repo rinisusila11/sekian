@@ -4,7 +4,7 @@ Stisla is the most-awesome admin panel I've seen so far. As I love this template
 ## Installation
 Clone the repo:
 ```shell
-git clone https://github.com/rinisusila11/aset1.git
+git clone https://github.com/rinisusila11/sekian.git
 ```
 
 Install composer packages:
